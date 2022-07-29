@@ -1,6 +1,16 @@
 # projeto_SD
 Projeto final da disciplina de Sistemas Digitais
 
+INTEGRANTES DO GRUPO:
+
+ARTHUR BRENO DOS REIS PAULA - 12547382
+CARLOS NERY RIBEIRO - 12547698
+FELIPE CECATO - 12547785
+FERNANDO CLARINDO CRISTÓVÃO - 12547573
+GABRIEL RIBEIRO RODRIGUES DESSOTTI - 12547228
+PEDRO MANICARDI SOARES - 12547621
+
+
 Nesse repositório, estão os PDFs das 4 etapas do projeto final da disciplina:
 
 Parte 1: Relógio Digital TTL
